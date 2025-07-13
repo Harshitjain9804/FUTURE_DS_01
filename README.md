@@ -31,3 +31,4 @@ YTD (Year-to-Date) Sales, QTD (Quarter-to-Date) Performance, YTD vs. Target Comp
 *Dashboard Design Best Practices
 
 DASHBOARD 
+<img width="838" height="470" alt="BLINKIT_DESHBOARD_IMAGE" src="https://github.com/user-attachments/assets/e8e1f224-bcfb-4f52-998c-712cd3c09e90" />
